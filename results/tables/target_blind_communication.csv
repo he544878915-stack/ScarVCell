@@ -1,0 +1,16 @@
+Data_S15_Comm: Which prespecified communication axes retain target-blind direction?
+"Source file(s): anonymous_source_030.csv; anonymous_source_031.csv | Boundary: Within-expression-domain consistency; sender, receiver and state are not experimentally independent."
+
+source_table,dataset_id,axis_id,samples_evaluable,support_n,support_fraction,exact_one_sided_sign_p,median_oriented_delta,fdr_bh,ligand,receptor,expected_delta,donor_n_min,donor_n_max,support_fraction_min,support_fraction_max,worst_case_exact_sign_p,worst_case_fdr,mean_delta_min,mean_delta_max,donor_mapping_robust
+anonymous_source_032.csv,GSE191067,CSF1_CSF1R,12,12,1,0.000244140625,0.10775929328269701,0.00048828125
+anonymous_source_032.csv,GSE191067,CXCL12_CXCR4,12,11,0.9166666666666666,0.003173828125,2.21137710694485,0.0047607421875
+anonymous_source_032.csv,GSE191067,MIF_CD74,12,9,0.75,0.072998046875,0.9075434239788395,0.072998046875
+anonymous_source_032.csv,GSE191067,PDGFB_PDGFRA,12,9,0.75,0.072998046875,0.051718984397670004,0.072998046875
+anonymous_source_032.csv,GSE191067,POSTN_ITGAV_ITGB1,12,12,1,0.000244140625,0.146451710355813,0.00048828125
+anonymous_source_032.csv,GSE191067,TGFB1_TGFBR,12,12,1,0.000244140625,0.015506009008078449,0.00048828125
+anonymous_source_033.csv,,CSF1_CSF1R,,,,,,,CSF1,CSF1R,negative,9,10,1,1,0.001953125,0.00390625,-0.0690025479407438,-0.0656739860285664,TRUE
+anonymous_source_033.csv,,CXCL12_CXCR4,,,,,,,CXCL12,CXCR4,negative,9,10,1,1,0.001953125,0.00390625,-1.25103474673353,-1.169936258554,TRUE
+anonymous_source_033.csv,,MIF_CD74,,,,,,,MIF,CD74,positive,9,10,0.666666666666667,0.777777777777778,0.25390625,0.25390625,0.610024452954153,0.682286997499144,FALSE
+anonymous_source_033.csv,,PDGFB_PDGFRA,,,,,,,PDGFB,PDGFRA,negative,9,10,1,1,0.001953125,0.00390625,-0.0669856432767439,-0.0619402519414946,TRUE
+anonymous_source_033.csv,,POSTN_ITGAV_ITGB1,,,,,,,POSTN,ITGAV;ITGB1,positive,9,10,0.888888888888889,0.9,0.01953125,0.0234375,0.338497695051094,0.373659216486776,TRUE
+anonymous_source_033.csv,,TGFB1_TGFBR,,,,,,,TGFB1,TGFBR1;TGFBR2,positive,9,10,0.888888888888889,0.9,0.01953125,0.0234375,0.0273748194407408,0.0304902473935214,TRUE

@@ -1,0 +1,31 @@
+dataset_id,sample_id,donor_id,condition,dataset_role,independence_status,analysis_unit,note
+GSE163973,KF1_matrix,GSE163973_KF1,keloid,single_cell_development,reported_independent_donor,donor,
+GSE163973,KF2_matrix,GSE163973_KF2,keloid,single_cell_development,reported_independent_donor,donor,
+GSE163973,KF3_matrix,GSE163973_KF3,keloid,single_cell_development,reported_independent_donor,donor,
+GSE163973,NF1_matrix,GSE163973_NF1_UNRESOLVED,normal_scar,single_cell_development,donor_mapping_uncertain,donor,GEO exposes three matrices but the protocol text reports two normal-scar donors; strict inference must collapse one pair in sensitivity analyses.
+GSE163973,NF2_matrix,GSE163973_NF2_UNRESOLVED,normal_scar,single_cell_development,donor_mapping_uncertain,donor,GEO exposes three matrices but the protocol text reports two normal-scar donors; strict inference must collapse one pair in sensitivity analyses.
+GSE163973,NF3_matrix,GSE163973_NF3_UNRESOLVED,normal_scar,single_cell_development,donor_mapping_uncertain,donor,GEO exposes three matrices but the protocol text reports two normal-scar donors; strict inference must collapse one pair in sensitivity analyses.
+GSE181297,GSM5494438_Ke01,GSE181297_Ke01,keloid,single_cell_development,reported_independent_donor,donor,
+GSE181297,GSM5494439_Ke02,GSE181297_Ke02,keloid,single_cell_development,reported_independent_donor,donor,
+GSE181297,GSM5610149_NS02,GSE181297_NS02,normal_scar,single_cell_development,reported_independent_donor,donor,
+GSE243716,GSM7794710_K,GSE243716_P1,keloid,single_cell_development,paired_same_donor,donor,Keloid and hypertrophic scar tissues were collected from the same 34-year-old participant.
+GSE243716,GSM7794711_H,GSE243716_P1,hypertrophic_scar,single_cell_development,paired_same_donor,donor,Keloid and hypertrophic scar tissues were collected from the same 34-year-old participant.
+GSE320017,GR1D0,GSE320017_GR1,burn_hypertrophic_scar_laser_series,retrospective_context_validation,repeated_longitudinal_same_donor,donor,Four longitudinal matrices belong to one participant and must not be treated as independent samples.
+GSE320017,GR1W3,GSE320017_GR1,burn_hypertrophic_scar_laser_series,retrospective_context_validation,repeated_longitudinal_same_donor,donor,Four longitudinal matrices belong to one participant and must not be treated as independent samples.
+GSE320017,GR1M6,GSE320017_GR1,burn_hypertrophic_scar_laser_series,retrospective_context_validation,repeated_longitudinal_same_donor,donor,Four longitudinal matrices belong to one participant and must not be treated as independent samples.
+GSE320017,GR1Y1,GSE320017_GR1,burn_hypertrophic_scar_laser_series,retrospective_context_validation,repeated_longitudinal_same_donor,donor,Four longitudinal matrices belong to one participant and must not be treated as independent samples.
+GSE320017,PR1D0,GSE320017_PR1,burn_hypertrophic_scar_laser_series,retrospective_context_validation,repeated_longitudinal_same_donor,donor,Four longitudinal matrices belong to one participant and must not be treated as independent samples.
+GSE320017,PR1W3,GSE320017_PR1,burn_hypertrophic_scar_laser_series,retrospective_context_validation,repeated_longitudinal_same_donor,donor,Four longitudinal matrices belong to one participant and must not be treated as independent samples.
+GSE320017,PR1M6,GSE320017_PR1,burn_hypertrophic_scar_laser_series,retrospective_context_validation,repeated_longitudinal_same_donor,donor,Four longitudinal matrices belong to one participant and must not be treated as independent samples.
+GSE320017,PR1Y1,GSE320017_PR1,burn_hypertrophic_scar_laser_series,retrospective_context_validation,repeated_longitudinal_same_donor,donor,Four longitudinal matrices belong to one participant and must not be treated as independent samples.
+GSE320017,GR2D0,GSE320017_GR2,burn_hypertrophic_scar_laser_series,retrospective_context_validation,repeated_longitudinal_same_donor,donor,Four longitudinal matrices belong to one participant and must not be treated as independent samples.
+GSE320017,GR2W3,GSE320017_GR2,burn_hypertrophic_scar_laser_series,retrospective_context_validation,repeated_longitudinal_same_donor,donor,Four longitudinal matrices belong to one participant and must not be treated as independent samples.
+GSE320017,GR2M6,GSE320017_GR2,burn_hypertrophic_scar_laser_series,retrospective_context_validation,repeated_longitudinal_same_donor,donor,Four longitudinal matrices belong to one participant and must not be treated as independent samples.
+GSE320017,GR2Y1,GSE320017_GR2,burn_hypertrophic_scar_laser_series,retrospective_context_validation,repeated_longitudinal_same_donor,donor,Four longitudinal matrices belong to one participant and must not be treated as independent samples.
+GSE320017,PR2D0,GSE320017_PR2,burn_hypertrophic_scar_laser_series,retrospective_context_validation,repeated_longitudinal_same_donor,donor,Four longitudinal matrices belong to one participant and must not be treated as independent samples.
+GSE320017,PR2W3,GSE320017_PR2,burn_hypertrophic_scar_laser_series,retrospective_context_validation,repeated_longitudinal_same_donor,donor,Four longitudinal matrices belong to one participant and must not be treated as independent samples.
+GSE320017,PR2M6,GSE320017_PR2,burn_hypertrophic_scar_laser_series,retrospective_context_validation,repeated_longitudinal_same_donor,donor,Four longitudinal matrices belong to one participant and must not be treated as independent samples.
+GSE320017,PR2Y1,GSE320017_PR2,burn_hypertrophic_scar_laser_series,retrospective_context_validation,repeated_longitudinal_same_donor,donor,Four longitudinal matrices belong to one participant and must not be treated as independent samples.
+GSE92566,TO_BE_PARSED,TO_BE_PARSED,keloid_or_control,locked_external_validation,pending_metadata_audit,donor,Locked before expression retrieval; no feature or weight tuning is permitted after projection.
+GSE44270,TO_BE_PARSED,TO_BE_PARSED,keloid_or_control,locked_external_validation,pending_metadata_audit,donor,Locked before expression retrieval; no feature or weight tuning is permitted after projection.
+GSE7890,TO_BE_PARSED,TO_BE_PARSED,keloid_or_control,locked_external_validation,pending_metadata_audit,donor,Locked before expression retrieval; no feature or weight tuning is permitted after projection.

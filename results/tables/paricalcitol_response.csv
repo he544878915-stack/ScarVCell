@@ -1,0 +1,11 @@
+Data_S19_Parical: Is the paricalcitol response consistent across donor context?
+Source file(s): anonymous_source_040.csv | Boundary: Small donor counts and context-specific direction are retained.
+
+dataset,context,donor_id,untreated_minus_paricalcitol
+GSE282479,keloid,keloid_1,-0.05907983202692499
+GSE282479,keloid,keloid_2,0.10849332683510524
+GSE282479,keloid,keloid_3,0.2319651706376559
+GSE282479,normal,normal_1,0.12549866973282295
+GSE282479,normal,normal_2,0.07490110700206742
+GSE282479,normal,normal_3,0.06263801852213204
+GSE282479,normal,normal_4,0.03948844017176452

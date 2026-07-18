@@ -1,0 +1,14 @@
+Data_S7_GSE212954: Do keloid centre and margin differ from same-patient normal skin?
+Source file(s): anonymous_source_010.csv | Boundary: Only available within-patient regions are compared; missing regions are not imputed.
+
+dataset,patient_id,contrast,response
+GSE212954,K20,centre_minus_normal,1.5852139232149667
+GSE212954,K23,centre_minus_normal,1.255725493996272
+GSE212954,K24,centre_minus_normal,1.7248585307589033
+GSE212954,K27,centre_minus_normal,1.0094526032715725
+GSE212954,K20,margin_minus_normal,1.5620900270087725
+GSE212954,K23,margin_minus_normal,1.8354474768078102
+GSE212954,K24,margin_minus_normal,1.2314098363498314
+GSE212954,K20,centre_minus_margin,0.02312389620619415
+GSE212954,K23,centre_minus_margin,-0.5797219828115381
+GSE212954,K24,centre_minus_margin,0.4934486944090717

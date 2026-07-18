@@ -1,0 +1,38 @@
+order,script,purpose,claim_boundary
+1,scripts/01_build_sample_and_donor_manifest.py,Sample and donor audit,Fixed analysis of public data; no cross-dataset pooling of expression for inference
+2,scripts/02_train_and_freeze_fssi.py,Donor-level FSSI training and freezing,Fixed analysis of public data; no cross-dataset pooling of expression for inference
+3,scripts/03_runx2_measured_response.py,Measured RUNX2 response,Fixed analysis of public data; no cross-dataset pooling of expression for inference
+4,scripts/04_runx2_pathway_and_null.py,RUNX2 pathway and matched-null analysis,Fixed analysis of public data; no cross-dataset pooling of expression for inference
+5,scripts/05_external_scrna_projection.R,Frozen external single-cell projection,Fixed analysis of public data; no cross-dataset pooling of expression for inference
+6,scripts/06_external_effects_and_baselines.py,External effects and simple baselines,Fixed analysis of public data; no cross-dataset pooling of expression for inference
+7,scripts/07_external_matched_gene_benchmarks.py,Matched-gene and incremental benchmarks,Fixed analysis of public data; no cross-dataset pooling of expression for inference
+8,scripts/08_external_qc_sensitivity.py,External QC and shared-gene sensitivity,Fixed analysis of public data; no cross-dataset pooling of expression for inference
+9,scripts/09_communication_dataset_validation.py,Dataset-stratified communication validation,Fixed analysis of public data; no cross-dataset pooling of expression for inference
+10,scripts/10_fetch_locked_external_datasets.py,Locked external-data retrieval,Fixed analysis of public data; no cross-dataset pooling of expression for inference
+11,scripts/11_project_locked_external_scrna.R,Post-lock single-cell projection,Fixed analysis of public data; no cross-dataset pooling of expression for inference
+12,scripts/12_postn_measured_response.py,Measured POSTN response,Fixed analysis of public data; no cross-dataset pooling of expression for inference
+13,scripts/13_locked_validation_summary.py,Locked-validation summary and random-weight null,Fixed analysis of public data; no cross-dataset pooling of expression for inference
+14,scripts/14_gse191067_feature_map.R,GSE191067 locked feature map,Fixed analysis of public data; no cross-dataset pooling of expression for inference
+15,scripts/15_gse191067_stream_qc.py,GSE191067 streaming QC,Fixed analysis of public data; no cross-dataset pooling of expression for inference
+16,scripts/16_gse191067_projection_and_communication.R,GSE191067 projection and target-blind communication,Fixed analysis of public data; no cross-dataset pooling of expression for inference
+17,scripts/17_projection_stability.py,"Sample effects, downsampling and stability",Fixed analysis of public data; no cross-dataset pooling of expression for inference
+18,scripts/18_patient_tissue_and_intervention_analysis.py,Patient-paired tissue and measured-intervention analyses,Fixed analysis of public data; no cross-dataset pooling of expression for inference
+19,scripts/19_hierarchical_bootstrap.py,Hierarchical bootstrap stability,Fixed analysis of public data; no cross-dataset pooling of expression for inference
+20,scripts/20_annotation_and_doublet_qc.R,Annotation and doublet sensitivity,Fixed analysis of public data; no cross-dataset pooling of expression for inference
+21,scripts/21_dataset_screening_qc.py,Dataset-screening and QC summary,Fixed analysis of public data; no cross-dataset pooling of expression for inference
+22,scripts/22_prepare_genetic_gene_sets.R,Locked genetic gene-set preparation,Fixed analysis of public data; no cross-dataset pooling of expression for inference
+23,scripts/23_run_magma.py,Ancestry-aware MAGMA analysis,Fixed analysis of public data; no cross-dataset pooling of expression for inference
+24,scripts/24_gse158395_paired_analysis.py,GSE158395 paired projection and composition sensitivity,Fixed analysis of public data; no cross-dataset pooling of expression for inference
+25,scripts/25_susceptibility_anchor.py,Published susceptibility-anchor construction,Fixed analysis of public data; no cross-dataset pooling of expression for inference
+26,scripts/26_genetic_anchor_atlas_convergence.R,Atlas susceptibility-state convergence,Fixed analysis of public data; no cross-dataset pooling of expression for inference
+27,scripts/27_skin_fibroblast_atlas.py,Consensus skin-fibroblast atlas crosswalk,Fixed analysis of public data; no cross-dataset pooling of expression for inference
+28,scripts/28_fetch_public_expansion_datasets.py,Public expansion dataset retrieval,Fixed analysis of public data; no cross-dataset pooling of expression for inference
+29,scripts/29_inspect_public_matrices.py,Public matrix capability inspection,Fixed analysis of public data; no cross-dataset pooling of expression for inference
+30,scripts/30_transcriptomic_expansion.py,Patient-paired and regional transcriptomic expansion,Fixed analysis of public data; no cross-dataset pooling of expression for inference
+31,scripts/31_proteomics_crosswalk.py,Proteomics retrieval and fixed-protein crosswalk,Fixed analysis of public data; no cross-dataset pooling of expression for inference
+32,scripts/32_gse274709_recurrence_audit.py,GSE274709 recurrence-mapping audit,Fixed analysis of public data; no cross-dataset pooling of expression for inference
+33,scripts/33_runx2_source_audit.py,RUNX2 source-data audit,Fixed analysis of public data; no cross-dataset pooling of expression for inference
+34,scripts/34_adrenergic_response.py,Measured adrenergic response,Fixed analysis of public data; no cross-dataset pooling of expression for inference
+35,scripts/35_regional_geometry.py,Within-patient regional geometry,Fixed analysis of public data; no cross-dataset pooling of expression for inference
+36,scripts/36_corin_response.py,Measured corin response,Fixed analysis of public data; no cross-dataset pooling of expression for inference
+37,scripts/37_raw_proteomics_and_znf469.py,Sample-level proteomics and ZNF469 response,Fixed analysis of public data; no cross-dataset pooling of expression for inference

@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this software or its released outputs, please cite the version-specific archival record."
+title: "ScarVCell: an auditable fibroblast repair-state coordinate for pathological scarring"
+type: software
+version: "1.13.0"
+date-released: "2026-07-18"
+authors:
+  - family-names: "He"
+    given-names: "Junwei"
+    orcid: "https://orcid.org/0009-0008-7690-9452"
+    affiliation: "Ruijin Hospital, Shanghai Jiao Tong University School of Medicine"
+  - family-names: "Ding"
+    given-names: "Zezhao"
+    affiliation: "Donghua University"
+  - family-names: "Xu"
+    given-names: "Wei"
+    affiliation: "Ruijin Hospital, Shanghai Jiao Tong University School of Medicine"
+  - family-names: "Yi"
+    given-names: "Lei"
+    affiliation: "Ruijin Hospital, Shanghai Jiao Tong University School of Medicine"
+license: MIT
+repository-code: "https://github.com/he544878915-stack/ScarVCell"
+doi: "10.5281/zenodo.21413646"
+url: "https://doi.org/10.5281/zenodo.21413646"

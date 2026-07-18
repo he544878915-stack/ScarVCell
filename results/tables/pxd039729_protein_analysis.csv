@@ -1,0 +1,22 @@
+Data_S13_PXD039729: Does an independent fibroblast proteome support the fixed programme?
+Source file(s): anonymous_source_028.csv | Boundary: Five donors per group but only five fixed proteins; the programme-score coverage gate fails.
+
+dataset,comparison,gene,program,detected_case,detected_reference,n_case,n_reference,mean_case,mean_reference,difference,ci_low,ci_high,p_value,fdr_within_comparison
+PXD039729,keloid_vs_normal_fibroblast_WCL,ADAM12,pathological,0,0,0,0
+PXD039729,keloid_vs_normal_fibroblast_WCL,COMP,pathological,0,0,0,0
+PXD039729,keloid_vs_normal_fibroblast_WCL,COL5A1,pathological,5,5,5,5,23.690083265760816,22.898282480647715,0.7918007851131001,-1.7155941264064611,3.2991956966326614,0.4870781150103145,0.8117968583505242
+PXD039729,keloid_vs_normal_fibroblast_WCL,POSTN,pathological,5,5,5,5,16.401280289893627,16.69823353077846,-0.2969532408848323,-3.543035300661409,2.949128818891744,0.8277090479484835,0.8277090479484835
+PXD039729,keloid_vs_normal_fibroblast_WCL,FAP,pathological,5,5,5,5,19.673837692998077,19.10882366223064,0.5650140307674363,-0.8902959768135708,2.020324038348443,0.3647317425431733,0.8117968583505242
+PXD039729,keloid_vs_normal_fibroblast_WCL,ASPN,pathological,0,0,0,0
+PXD039729,keloid_vs_normal_fibroblast_WCL,COL12A1,pathological,5,5,5,5,21.05223327640937,21.932194101777633,-0.8799608253682614,-2.7562921862105965,0.9963705354740737,0.2990708676036764,0.8117968583505242
+PXD039729,keloid_vs_normal_fibroblast_WCL,COL16A1,pathological,0,0,0,0
+PXD039729,keloid_vs_normal_fibroblast_WCL,OGN,pathological,0,0,0,0
+PXD039729,keloid_vs_normal_fibroblast_WCL,C1QTNF3,pathological,0,0,0,0
+PXD039729,keloid_vs_normal_fibroblast_WCL,PI16,repair,0,0,0,0
+PXD039729,keloid_vs_normal_fibroblast_WCL,DCN,repair,5,5,5,5,17.341457041370127,17.73453087747526,-0.3930738361051347,-2.583652328654358,1.7975046564440884,0.6872310560744719,0.8277090479484835
+PXD039729,keloid_vs_normal_fibroblast_WCL,APOD,repair,0,0,0,0
+PXD039729,keloid_vs_normal_fibroblast_WCL,ABCA8,repair,0,0,0,0
+PXD039729,keloid_vs_normal_fibroblast_WCL,C3,repair,0,0,0,0
+PXD039729,keloid_vs_normal_fibroblast_WCL,ABCA10,repair,0,0,0,0
+PXD039729,keloid_vs_normal_fibroblast_WCL,GSTM5,repair,0,0,0,0
+PXD039729,keloid_vs_normal_fibroblast_WCL,NEGR1,repair,0,0,0,0

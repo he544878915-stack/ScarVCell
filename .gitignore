@@ -1,0 +1,8 @@
+.stage/
+data/
+__pycache__/
+*.pyc
+*.RData
+*.Rhistory
+.DS_Store
+Thumbs.db

@@ -1,0 +1,12 @@
+Data_S11_Suscept: Does a source-defined susceptibility anchor converge on lesion state?
+Source file(s): anonymous_source_020.csv; anonymous_source_021.csv | Boundary: The anchor is independent of workflow-based outcome selection; null convergence is retained.
+
+source_table,gene,selected_tissue,gpge_z,gpge_p,pp_h4,qualifying_tissues,direction_conflict,included_in_signed_score,signed_weight,in_fssi,in_extended_candidate_panel,dataset_id,contrast,participant_pairs,anchor_genes_present,mean_difference,ci95_low,ci95_high,exact_signflip_p_two_sided,positive_pairs,sample_level_spearman_with_fssi,sample_level_spearman_p,paired_delta_spearman_with_fssi_delta,paired_delta_spearman_p
+anonymous_source_022.csv,LSP1,Cells_Cultured_fibroblasts,-5.41840525182003,6.01329921388892e-08,0.99390464003488,1,False,True,-0.13028930032144348,False,False
+anonymous_source_022.csv,NEDD4,Cells_Cultured_fibroblasts,6.54622097213853,5.90112470032556e-11,0.99502448179751,1,False,True,0.15740840903751166,False,False
+anonymous_source_022.csv,PGAP3,Skin_Sun_Exposed_Lower_leg,-4.87609930101823,1.08204153835627e-06,0.943037133650535,1,False,True,-0.11724917880849679,False,False
+anonymous_source_022.csv,PHLDA3,Skin_Not_Sun_Exposed_Suprapubic,7.66819501178765,1.74433546515462e-14,0.998998323232899,2,False,True,0.18438705050320958,False,False
+anonymous_source_022.csv,PPP1R1B,Skin_Not_Sun_Exposed_Suprapubic,5.43455392450374,5.4933682901912e-08,0.956248093248073,1,False,True,0.1306776063205885,False,False
+anonymous_source_022.csv,RP11-134G8.5,Skin_Not_Sun_Exposed_Suprapubic,5.77938782345571,7.49729227527964e-09,0.975467888678097,1,False,True,0.13896937582352042,False,False
+anonymous_source_022.csv,TNNT3,Skin_Not_Sun_Exposed_Suprapubic,-5.86462984588086,4.50135728984876e-09,0.999097986699246,2,False,True,-0.14101907918522952,False,False
+anonymous_source_023.csv,,,,,,,,,,,,GSE158395,lesion_minus_matched_nonlesion,3,6,0.07256078452554275,-0.6039821696669188,0.7491037387180042,0.75,2,0.3706293706293707,0.23562100351264567,0.5,0.6666666666666666

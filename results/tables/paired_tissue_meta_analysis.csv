@@ -1,0 +1,8 @@
+Data_S5_PairedMeta: How consistent are patient-resolved tissue effects?
+Source file(s): anonymous_source_005.csv; anonymous_source_006.csv | Boundary: Dataset-specific effects are primary; random effects are a secondary directional summary.
+
+source_table,dataset,contrast,n_patients,positive_patients,mean_dataset_scale_response,hedges_g,variance,se,ci95_low,ci95_high,exact_signflip_p_two_sided,method,studies,standardised_mean_response,tau2,Q,Q_df,I2_percent
+anonymous_source_007.csv,GSE90051,active keloid vs adjacent normal skin,7,7,17.016860668930768,1.9370655148343667,0.42047270874995213,0.6484386699989075,0.666125721636508,3.2080053080322255,0.015625
+anonymous_source_007.csv,GSE212954,keloid centre vs same-patient normal skin,4,4,1.3938126378104287,3.122293770149386,1.7556860917518529,1.3250230532907166,0.5252485856995817,5.71933895459919,0.125
+anonymous_source_007.csv,GSE158395,keloid lesion vs same-patient distant non-lesional skin,3,3,1.3694447148193305,1.0693490405017152,0.3919801380000815,0.6260831717911619,-0.15777397620896205,2.2964720572123927,0.25
+anonymous_source_008.csv,,,,,,,,,0.767659835576411,2.6002288909625175,,DerSimonian-Laird random effects,3,1.6839443632694642,0.0899894684016667,2.2904741446417063,2,12.681834690045998

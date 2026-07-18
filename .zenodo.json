@@ -1,0 +1,44 @@
+{
+  "title": "ScarVCell: an auditable fibroblast repair-state coordinate for pathological scarring",
+  "upload_type": "software",
+  "description": "Curated final reproducibility release for a frozen 18-gene fibroblast scar-state coordinate. The archive contains final analysis scripts, prespecified locks, accession and analysis-unit audits, processed non-identifiable outputs, publication figures and integrity records. Public source archives are referenced but not redistributed.",
+  "creators": [
+    {
+      "name": "He, Junwei",
+      "affiliation": "Ruijin Hospital, Shanghai Jiao Tong University School of Medicine",
+      "orcid": "0009-0008-7690-9452"
+    },
+    {
+      "name": "Ding, Zezhao",
+      "affiliation": "Donghua University"
+    },
+    {
+      "name": "Xu, Wei",
+      "affiliation": "Ruijin Hospital, Shanghai Jiao Tong University School of Medicine"
+    },
+    {
+      "name": "Yi, Lei",
+      "affiliation": "Ruijin Hospital, Shanghai Jiao Tong University School of Medicine"
+    }
+  ],
+  "access_right": "open",
+  "license": "mit-license",
+  "version": "1.13.0",
+  "publication_date": "2026-07-18",
+  "keywords": [
+    "pathological scarring",
+    "keloid",
+    "hypertrophic scar",
+    "fibroblast",
+    "transcriptomics",
+    "public data",
+    "reproducible research"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/he544878915-stack/ScarVCell",
+      "relation": "isIdenticalTo",
+      "scheme": "url"
+    }
+  ]
+}

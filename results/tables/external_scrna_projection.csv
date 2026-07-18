@@ -1,0 +1,14 @@
+Data_S4_Ext_scRNA: Does the frozen coordinate retain direction in held-out scRNA datasets?
+Source file(s): anonymous_source_004.csv | Boundary: Effects remain within dataset; no cross-dataset expression pooling.
+
+dataset_id,contrast,score_variant,design,n_positive,n_reference,mean_difference,mean_difference_ci95_low,mean_difference_ci95_high,ci_method
+GSE92566,Keloid lesion - paired non-lesion,anonymous_internal_label_002,paired,3,3,1.0857486009060537,-0.6188862451556687,2.790383446967776,paired_t
+GSE92566,Keloid lesion - paired non-lesion,anonymous_internal_label_003,paired,3,3,1.147971768914472,-0.5266566032238,2.822600141052744,paired_t
+GSE7890,Keloid - normal-scar fibroblasts,anonymous_internal_label_002,independent,5,5,0.13243287709857138,-0.2436953225718586,0.5085610767690014,welch_t
+GSE7890,Keloid - normal-scar fibroblasts,anonymous_internal_label_003,independent,5,5,0.11161859186945733,-0.23601488128749554,0.4592520650264102,welch_t
+GSE44270,Keloid - non-lesional fibroblasts,anonymous_internal_label_002,independent,9,4,0.25825787334619316,-0.1106372035993961,0.6271529502917824,welch_t
+GSE44270,Keloid - non-lesional fibroblasts,anonymous_internal_label_003,independent,9,4,0.15655714346786728,-0.16565752885730264,0.4787718157930372,welch_t
+GSE44270,Keloid - unaffected-control fibroblasts,anonymous_internal_label_002,independent,9,3,0.5016869411741274,-0.027182651929223423,1.030556534277478,welch_t
+GSE44270,Keloid - unaffected-control fibroblasts,anonymous_internal_label_003,independent,9,3,0.41808153324249875,0.08209337693120977,0.7540696895537877,welch_t
+GSE7890,Control - hydrocortisone,anonymous_internal_label_002,paired,5,5,0.5012015458329848,0.23367112629600784,0.7687319653699618,paired_t
+GSE7890,Control - hydrocortisone,anonymous_internal_label_003,paired,5,5,0.5065427716365297,0.2507551991503218,0.7623303441227376,paired_t

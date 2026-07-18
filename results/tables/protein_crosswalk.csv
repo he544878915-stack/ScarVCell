@@ -1,0 +1,22 @@
+Data_S14_ProteinCross: Which fixed genes have prior source-level protein observations?
+Source file(s): anonymous_source_029.csv | Boundary: Source-level crosswalk; not a sample-level abundance reanalysis.
+
+gene,programme,PXD015057_detected_extracts,PXD015057_source_keloid_unique_or_increased,PXD029631_source_evidence,orthogonal_protein_evidence
+ADAM12,pathological,,False,,False
+COMP,pathological,NaCl,False,source_reported_upregulated,True
+COL5A1,pathological,GuHCl;NaCl,False,source_reported_upregulated,True
+POSTN,pathological,GuHCl;NaCl,False,,True
+FAP,pathological,,False,source_reported_upregulated,True
+ASPN,pathological,GuHCl;NaCl,True,source_reported_upregulated,True
+COL12A1,pathological,GuHCl;NaCl,False,source_reported_upregulated,True
+COL16A1,pathological,GuHCl;NaCl,True,,True
+OGN,pathological,GuHCl;NaCl,False,,True
+C1QTNF3,pathological,,False,,False
+PI16,repair,,False,,False
+DCN,repair,GuHCl;NaCl,False,,True
+APOD,repair,NaCl,False,,True
+ABCA8,repair,,False,,False
+C3,repair,,False,,False
+ABCA10,repair,,False,,False
+GSTM5,repair,,False,,False
+NEGR1,repair,,False,,False

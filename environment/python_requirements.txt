@@ -1,0 +1,11 @@
+anndata
+gseapy
+matplotlib
+numpy
+pandas
+requests
+scikit-learn
+scipy
+seaborn
+statsmodels
+zarr

@@ -1,0 +1,11 @@
+accession,role,relative_path,bytes,md5,coordinate_or_feature_system
+GCST90652487,multi-ancestry GWAS,.stage/genetics/GWAS/GCST90652487.tsv.gz,340135980,8db7428b31874b9f9a509a4e0e6ff69c,GRCh37
+GCST90652488,European-ancestry GWAS,.stage/genetics/GWAS/GCST90652488.tsv.gz,182639710,5eddd7bdd0d98cf7b49615c1df7ea0bd,GRCh37
+GCST90652489,African-ancestry GWAS,.stage/genetics/GWAS/GCST90652489.tsv.gz,273389974,7808f746462d9e2f4724c246cee23b8e,GRCh37
+GSE158395,processed bulk RNA-seq,.stage/genetics/GSE158395/GSE158395_exp_fin_geo.csv.gz,2332004,ede63214426dc247191f4cc701e05210,gene symbol
+GSE158395_SOFT,GEO sample metadata audit,.stage/genetics/GSE158395/GSE158395_family.soft.gz,3211,4c1601e2cec4581cdbabf12d0f36c56b,GEO SOFT
+Greene2025_SD8,published GPGE-colocalisation supplement,.stage/genetics/Greene2025_supplement/41467_2025_62945_MOESM10_ESM.xlsx,1153692,af19b70498916554c08726538045fe79,source study
+STEELE2025_SKIN_FIBROBLAST_ATLAS,consolidated AnnData-Zarr metadata,data/external/steele2025_skin_fibroblast_atlas/.zmetadata,23431,efeaa808fc6fefcb27083b2cd6f02162,357276 cells x 36601 genes; log-normalised
+STEELE2025_SKIN_FIBROBLAST_ATLAS,CellAtlas study and resource metadata,data/external/steele2025_skin_fibroblast_atlas/study_metadata_strapi.json,24377,1ccf73b9675bc9c95d93dd1d83ceb47e,JSON
+STEELE2025_SKIN_FIBROBLAST_ATLAS,source-published consensus subtype gene rankings,data/external/steele2025_skin_fibroblast_atlas/degs_fbs.csv,3538413,7fc9b0a0288f8b037b1e366d113357b6,ranked gene symbols
+STEELE2025_SKIN_FIBROBLAST_ATLAS,source analysis-code snapshot,data/external/steele2025_skin_fibroblast_atlas/github_commit_sha.txt,42,456b7041ccb3874062f58793a1004b42,git commit

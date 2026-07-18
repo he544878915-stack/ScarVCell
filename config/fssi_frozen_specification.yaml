@@ -1,0 +1,76 @@
+model_name: Frozen_FSSI
+lock_date: 2026-07-11
+primary_analysis_unit: donor
+
+development_datasets:
+  - GSE163973
+  - GSE181297
+  - GSE243716
+
+locked_external_validation_datasets:
+  - GSE92566
+  - GSE44270
+  - GSE7890
+
+retrospective_context_datasets:
+  - GSE320017
+  - GSE307504
+
+pathological_candidate_universe:
+  - ACAN
+  - OGN
+  - ASPN
+  - CILP2
+  - COL10A1
+  - LRRN1
+  - C1QTNF3
+  - WISP2
+  - COL11A1
+  - COL12A1
+  - COL16A1
+  - ADAM12
+  - FAP
+  - COL5A1
+  - COMP
+  - H19
+  - LAMP5
+  - MFAP2
+  - FNDC1
+  - POSTN
+  - THY1
+  - ACTA2
+
+repair_candidate_universe:
+  - APOD
+  - PTGDS
+  - ABCA8
+  - ABCA10
+  - C3
+  - VIT
+  - NEGR1
+  - GSTM5
+  - FMO1
+  - DPT
+  - PI16
+  - DCN
+  - LUM
+  - MMP1
+
+training_rule:
+  unit: donor_pseudobulk
+  feature_selection: directionally_concordant_across_informative_development_datasets
+  pathological_cap: 10
+  repair_cap: 8
+  weight: mean_regularized_standardized_difference
+  normalization: development_donor_mean_and_sd
+
+primary_validation_endpoint:
+  - within_dataset_donor_level_effect
+  - random_effects_meta_analysis_when_three_or_more_independent_contrasts_exist
+
+guardrails:
+  - no_cell_level_p_values
+  - no_weight_or_feature_tuning_after_external_projection
+  - no_original_sri_correlation_as_validation_endpoint
+  - paired_or_repeated_samples_collapsed_at_donor_level
+  - measured_perturbation_required_for_perturbation_response_claim

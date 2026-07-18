@@ -1,0 +1,19 @@
+Data_S8_GSE218007: How do disease status and dermal geometry alter FSSI?
+Source file(s): anonymous_source_011.csv; anonymous_source_012.csv | Boundary: Six keloid patients and three normal donors; one missing regional sample is not imputed.
+
+source_table,donor_id,centre_minus_periphery,deep_minus_superficial,disease,morphology,frozen_score
+anonymous_source_013.csv,CAM31,-0.35622820011052697,0.6037165505643474
+anonymous_source_013.csv,DUA21,0.061035285211475054,0.09834661077989831
+anonymous_source_013.csv,KAR25,-0.0020840701556401053,0.4375592856251354
+anonymous_source_013.csv,NKO27,0.09497870363895466,-0.09180529301570539
+anonymous_source_013.csv,OSS69,0.5864709070436454,0.7387839702847261
+anonymous_source_013.csv,SOU22,0.2265519898419991,0.4379194766841584
+anonymous_source_014.csv,CAM31,,,keloid,nodular,0.02349547286378542
+anonymous_source_014.csv,DUA21,,,keloid,extensive,0.305792463246655
+anonymous_source_014.csv,KAR25,,,keloid,nodular,0.21791151256823046
+anonymous_source_014.csv,MAJ23,,,normal,normal,-0.4103328473879295
+anonymous_source_014.csv,MOU19,,,normal,normal,-0.33746019849873565
+anonymous_source_014.csv,NKO27,,,keloid,extensive,-0.31209858632008025
+anonymous_source_014.csv,OSS69,,,keloid,extensive,-0.1945026299176178
+anonymous_source_014.csv,OUL25,,,normal,normal,-0.3616631789205655
+anonymous_source_014.csv,SOU22,,,keloid,nodular,0.4655042224832336
