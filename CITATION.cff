@@ -1,9 +1,9 @@
 cff-version: 1.2.0
-message: "If you use this software or its released outputs, please cite the version-specific archival record."
+message: "If you use this software or its released outputs, please cite the Zenodo archival record."
 title: "ScarVCell: an auditable fibroblast repair-state coordinate for pathological scarring"
 type: software
-version: "1.13.0"
-date-released: "2026-07-18"
+version: "1.13.1"
+date-released: "2026-07-19"
 authors:
   - family-names: "He"
     given-names: "Junwei"
@@ -20,5 +20,5 @@ authors:
     affiliation: "Ruijin Hospital, Shanghai Jiao Tong University School of Medicine"
 license: MIT
 repository-code: "https://github.com/he544878915-stack/ScarVCell"
-doi: "10.5281/zenodo.21413646"
-url: "https://doi.org/10.5281/zenodo.21413646"
+doi: "10.5281/zenodo.21413645"
+url: "https://doi.org/10.5281/zenodo.21413645"

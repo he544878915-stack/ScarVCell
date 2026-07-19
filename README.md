@@ -29,7 +29,7 @@ Junwei He led the study and made the principal contribution, including study con
 
 ## Citation
 
-Use `CITATION.cff` and the version-specific Zenodo record supplied with this release.
+Use `CITATION.cff` and the Zenodo archival record supplied with this release. The concept DOI remains stable across released versions.
 
 ## Funding
 
